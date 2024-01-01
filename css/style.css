@@ -219,6 +219,7 @@ a {
     }
 
     .modulo-tennis{
+        height: auto;
         position: relative;
         right: 0;
         z-index: 20;
